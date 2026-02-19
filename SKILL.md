@@ -4,7 +4,7 @@ description: A systematic methodology for converting sanitized, bureaucratic, or
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5010
+  version: 1.0.5011
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - soft-language-translation
